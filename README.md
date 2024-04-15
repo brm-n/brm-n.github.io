@@ -12,13 +12,13 @@
 - 🎥 Find my portfolio: 
 
 
-<p></p>
+
 
 ## Connect With Me
 - [LinkedIn]()
 - [Twitter]()
 
-##
+
 
 **Languages I have used**
 
